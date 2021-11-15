@@ -1,0 +1,41 @@
+*{
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.sobre, .cards, .finais{
+    padding: 20px 70px;
+    top:80%;
+}
+.card p{
+    padding: 30px;
+}
+
+.sobre, .finais{
+    background-color: lightgray;
+}
+
+div.video{
+    position: relative;
+}
+
+div.video > iframe{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+}
+.rodape{
+    padding: 0 40px;
+    display: flex;
+    justify-content:space-around;
+    background-color: #212529;
+    color: white;
+}
+h1{
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+
